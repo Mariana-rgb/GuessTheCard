@@ -13,8 +13,9 @@ In the game, the computer selects a random card, and your mission is to guess wh
 
 ### 📥 How to Run
 1. Download the repository.
-2. Open the console.
-3. Execute the C# code to start the game.
+2. Open **Visual Studio**.
+3. Open the console.
+4. Execute the C# code to start the game.
 
 ### 🎉 Try It Now!
 Challenge yourself and see how many cards you can guess correctly!
@@ -36,8 +37,9 @@ No jogo, o computador seleciona uma carta aleatória, e sua missão é adivinhar
 
 ### 📥 Como Executar
 1. Baixe o repositório.
-2. Abra o console.
-3. Execute o código C# para iniciar o jogo.
+2. Abra o **Visual Studio**
+3. Abra o console.
+4. Execute o código C# para iniciar o jogo.
 
 ### 🎉 Experimente Agora!
 Desafie-se e veja quantas cartas você consegue adivinhar corretamente!
